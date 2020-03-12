@@ -1,17 +1,15 @@
-<img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="400" />
-
-[![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19/commits/master)
+[![GitHub commit](https://img.shields.io/github/last-commit/jb3-2/covid_19)](https://github.com/jb3-2/covid_19/commits/master)
 
 
 # COVID-19
-COVID19 case numbers Canton of Zurich - case numbers include persons tested in the Canton of Zurich. The data is updated *at least* once a day (times of collection and update may vary).
+COVID19 case numbers Canton of Basel-Stadt. The data is updated *at least* once a day (times of collection and update may vary).
 
-*Important:* Since 09.03.2020, only persons who meet certain test criteria are tested (see "Testkriterien" at www.gd.zh.ch/coronavirus).
+*Important:* Since 09.03.2020, only persons who meet certain test criteria are tested.
 
 ## Data and status
-*COVID19_Fallzahlen_Kanton_ZH_total.csv* is LIVE
+*COVID19_Fallzahlen_Kanton_BS_total.csv* is LIVE
 
-*COVID19_Fallzahlen_Kanton_ZH_alter_geschlecht.csv* is LIVE
+*COVID19_Fallzahlen_Kanton_BS_alter_geschlecht.csv* is NOT YET AVAILABLE
 
 ## Metadata and explanations
 Metadata (in German): https://opendata.swiss/en/dataset/covid_19-fallzahlen-kanton-zuerich
@@ -30,6 +28,6 @@ The data is structured in such a way, it can be easily expanded both horizontall
 
 The aim is to create a common official OGD dataset of the Swiss Authorities.
 
-We are available to advise and support interested authorities. You can reach us during office hours at: info@open.zh.ch (please mention a phone number, we call you back)
+~~We are available to advise and support interested authorities. You can reach us during office hours at: info@open.zh.ch (please mention a phone number, we call you back)~~
 
-On Twitter we are available, too: https://twitter.com/OpenDataZH
+~~On Twitter we are available, too: https://twitter.com/OpenDataZH~~
